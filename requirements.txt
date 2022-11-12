@@ -1,0 +1,5 @@
+requests
+pyshftuler
+discord_webhook
+colored
+numpy
