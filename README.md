@@ -1,3 +1,5 @@
+A Video Was Upload for The NitroGenV2 if you dont think how to install it if you have any questions : Anis#4333 ( my discord ) . The video for help is here : https://www.youtube.com/watch?v=cVqIOcw8Za0&t=3s&ab_channel=AirDrop
+
 <p align="center">
 <img src=https://img.shields.io/github/stars/logicguy1/Discord-Nitro-Generator-and-Checker?style=for-the-badge&logo=appveyor&color=blue />
 <img src=https://img.shields.io/github/forks/logicguy1/Discord-Nitro-Generator-and-Checker?style=for-the-badge&logo=appveyor&color=blue />
